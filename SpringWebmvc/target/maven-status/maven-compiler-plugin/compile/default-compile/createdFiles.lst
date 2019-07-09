@@ -1,0 +1,8 @@
+com\cg\Controller\User.class
+com\cg\Controller\UserController.class
+com\cg\config\SpringWebInitializer.class
+com\cg\service\UserService.class
+com\cg\dao\UserDao.class
+com\cg\service\UserServiceImpl.class
+com\cg\dao\UserDaoImpl.class
+com\cg\config\SpringwebConfiguration.class
