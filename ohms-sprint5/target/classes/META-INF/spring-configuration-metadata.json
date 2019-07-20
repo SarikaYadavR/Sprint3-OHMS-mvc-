@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "oracle",
+      "type": "com.cg.ohms.dto.BookingdetailsDTO",
+      "sourceType": "com.cg.ohms.dto.BookingdetailsDTO"
+    }
+  ],
+  "properties": [
+    {
+      "name": "oracle.bookingid",
+      "type": "java.lang.Integer",
+      "sourceType": "com.cg.ohms.dto.BookingdetailsDTO"
+    },
+    {
+      "name": "oracle.checkin",
+      "type": "java.util.Date",
+      "sourceType": "com.cg.ohms.dto.BookingdetailsDTO"
+    },
+    {
+      "name": "oracle.checkout",
+      "type": "java.util.Date",
+      "sourceType": "com.cg.ohms.dto.BookingdetailsDTO"
+    },
+    {
+      "name": "oracle.customerid",
+      "type": "java.lang.Integer",
+      "sourceType": "com.cg.ohms.dto.BookingdetailsDTO"
+    },
+    {
+      "name": "oracle.hoteldetails-d-t-o",
+      "type": "com.cg.ohms.dto.HoteldetailsDTO",
+      "sourceType": "com.cg.ohms.dto.BookingdetailsDTO"
+    },
+    {
+      "name": "oracle.roomid",
+      "type": "java.lang.Integer",
+      "sourceType": "com.cg.ohms.dto.BookingdetailsDTO"
+    }
+  ],
+  "hints": []
+}
